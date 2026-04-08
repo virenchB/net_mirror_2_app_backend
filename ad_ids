@@ -2,7 +2,7 @@
   "version": 11,
   "updated_at": "2026-04-08T00:00:00Z",
   "ads": {
-    "master_enabled": false,
+    "master_enabled": true,
     "enabled": true,
     "refresh_minutes": 1,
     "waterfall_order": ["admob", "facebook", "adx"],
